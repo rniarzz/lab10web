@@ -16,7 +16,7 @@
 
 #### Kode nya seperti dibawah ini :
 
-```css
+```php
 <?php
 /**
 * Program sederhana pendefinisian class dan pemanggilan class.
