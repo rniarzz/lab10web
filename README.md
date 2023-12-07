@@ -13,8 +13,8 @@
 ## Langkah langkah praktikum
 
 ### 1. Buat file baru dengan nama mobil.php
+
 #### Kode nya seperti dibawah ini :
-```
 
 ```css
 <?php
