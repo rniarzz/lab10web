@@ -62,8 +62,9 @@ $b->tampilWarna();
 
 
 ### 2. Buat file baru dengan nama form.php
+
 #### Kode nya seperti dibawah ini :
-```
+---
 
 ```php
 <?php
@@ -110,8 +111,9 @@ class Form
 ```
 
 ### 3. Buat file baru dengan nama form_input.php
+
 #### Kode nya seperti dibawah ini
-```
+---
 
 ```php
 <?php
